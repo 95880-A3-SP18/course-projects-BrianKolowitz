@@ -1,0 +1,10 @@
+certifi==2017.11.5
+cycler==0.10.0
+Django==2.0.1
+gunicorn==19.7.1
+numpy==1.14.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.3
+six==1.11.0
+whitenoise==3.3.1

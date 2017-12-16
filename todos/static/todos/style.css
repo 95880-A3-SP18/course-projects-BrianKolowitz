@@ -1,0 +1,28 @@
+body {
+    background: white url("images/background.jpg") no-repeat right bottom;
+    background-size: 206.6px 53.2px;
+}
+
+li a {
+    color: green;
+}
+
+@media print  
+{
+    div.question-response {
+        page-break-inside: avoid;
+    }
+}
+
+img.figure {
+    width: 480px;
+}
+
+.error-header {
+    color: red;
+}
+
+ul.error-list > li {
+    color: red;
+    font-weight: bold;
+}
