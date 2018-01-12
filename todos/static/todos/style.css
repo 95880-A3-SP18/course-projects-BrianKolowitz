@@ -6,23 +6,3 @@ body {
 li a {
     color: green;
 }
-
-@media print  
-{
-    div.question-response {
-        page-break-inside: avoid;
-    }
-}
-
-img.figure {
-    width: 480px;
-}
-
-.error-header {
-    color: red;
-}
-
-ul.error-list > li {
-    color: red;
-    font-weight: bold;
-}

@@ -131,4 +131,3 @@ tests/report/
 # private
 private
 db.sqlite3
-.vscode
